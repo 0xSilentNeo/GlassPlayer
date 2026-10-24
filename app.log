@@ -1,0 +1,214 @@
+09:36:52.135 [app] launch v1.0.0 (1) iOS 26.2 arm64 free=40.84 GB
+09:36:52.144 [av] A/V lab, ao -labAO=default
+09:36:52.151 [imdb] warm-up skipped (Discover not used recently or Low Power Mode)
+09:36:53.200 [app] first screen 1711 ms after process start
+09:36:54.008 [player] play requested: 1 item(s), index 0, first=/Users/runner/Library/Developer/CoreSimulator/Devices/F0DD7694-09DA-495C-B924-2595061577BB/data/Containers/Bundle/Application/E26FB9AE-ABAC-4359-9B6E-EC6C23407045/GlassPlayer.app/lab/lab-av.mkv
+09:36:54.541 [hang] main thread unresponsive for 2.4 s
+09:36:54.654 [app] active
+09:36:55.066 [player] start renderer=metal
+09:36:55.082 [player] mpv options applied renderer=metal hwdec=auto anime4k=off/fast picture=efficient
+09:36:55.138 [player] loadfile /Users/runner/Library/Developer/CoreSimulator/Devices/F0DD7694-09DA-495C-B924-2595061577BB/data/Containers/Bundle/Application/E26FB9AE-ABAC-4359-9B6E-EC6C23407045/GlassPlayer.app/lab/lab-av.mkv source=local opts=[] -> 0
+09:36:55.166 [player] decoder: software
+09:36:55.197 [av] t=- a=- avsync=- speed=1.000 drops=-1/-1 ao=-
+09:36:57.289 [hang] main thread unresponsive for 2.1 s
+09:36:59.058 [player] file loaded in 3926 ms
+09:36:59.091 [player] decoder: software
+09:36:59.091 [av] t=0.000 a=- avsync=0.000 speed=1.000 drops=0/0 ao=-
+09:36:59.091 [av] t=0.000 a=- avsync=0.000 speed=1.000 drops=0/0 ao=-
+09:36:59.274 [perf] panel tracks prebuilt in 151 ms
+09:37:00.137 [perf] panel settings prebuilt in 753 ms
+09:37:00.230 [perf] panel nowPlaying prebuilt in 60 ms
+09:37:01.164 [av] t=0.000 a=- avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:01.164 [av] t=0.000 a=- avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:01.165 [av] t=0.000 a=- avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:01.165 [av] t=0.000 a=- avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:01.165 [av] t=0.000 a=- avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:01.219 [av] t=0.042 a=0.417 avsync=-0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:01.416 [av] t=0.042 a=0.667 avsync=-0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:01.555 [av] t=0.042 a=0.806 avsync=-0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:01.746 [av] t=0.042 a=0.997 avsync=-0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:01.946 [av] t=0.042 a=1.197 avsync=-0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:02.145 [av] t=1.417 a=1.396 avsync=0.000 speed=1.000 drops=30/0 ao=audiounit
+09:37:02.348 [av] t=1.625 a=1.599 avsync=0.000 speed=1.000 drops=30/0 ao=audiounit
+09:37:02.548 [av] t=1.833 a=1.798 avsync=0.000 speed=1.000 drops=30/0 ao=audiounit
+09:37:02.747 [av] t=2.000 a=1.997 avsync=0.000 speed=1.000 drops=30/0 ao=audiounit
+09:37:02.945 [av] t=2.208 a=2.196 avsync=0.000 speed=1.000 drops=30/0 ao=audiounit
+09:37:03.145 [av] t=2.417 a=2.396 avsync=0.000 speed=1.000 drops=30/0 ao=audiounit
+09:37:03.347 [av] t=2.625 a=2.598 avsync=0.000 speed=1.000 drops=30/0 ao=audiounit
+09:37:03.546 [av] t=2.792 a=2.797 avsync=0.000 speed=1.000 drops=30/0 ao=audiounit
+09:37:03.747 [av] t=3.000 a=2.998 avsync=0.000 speed=1.000 drops=30/0 ao=audiounit
+09:37:03.947 [av] t=3.208 a=3.198 avsync=0.000 speed=1.000 drops=30/0 ao=audiounit
+09:37:04.065 [imdb] HTTP 202 for /title/tt23623230/ (1997 bytes) → web view
+09:37:04.066 [imdb] webkit load /title/tt23623230
+09:37:04.176 [av] t=3.417 a=3.427 avsync=0.000 speed=1.000 drops=30/0 ao=audiounit
+09:37:04.347 [av] t=3.625 a=3.598 avsync=0.000 speed=1.000 drops=30/0 ao=audiounit
+09:37:04.375 [av] == hold 2x
+09:37:04.547 [av] t=3.750 a=3.697 avsync=0.000 speed=2.000 drops=30/0 ao=audiounit
+09:37:04.747 [av] t=4.125 a=4.097 avsync=0.000 speed=2.000 drops=30/0 ao=audiounit
+09:37:04.947 [av] t=4.458 a=4.497 avsync=0.000 speed=2.000 drops=32/0 ao=audiounit
+09:37:05.166 [av] t=4.917 a=4.936 avsync=0.000 speed=2.000 drops=32/0 ao=audiounit
+09:37:05.347 [av] t=5.333 a=5.297 avsync=0.000 speed=2.000 drops=32/0 ao=audiounit
+09:37:05.547 [av] t=5.750 a=5.697 avsync=0.000 speed=2.000 drops=32/0 ao=audiounit
+09:37:05.746 [av] t=6.167 a=6.095 avsync=0.000 speed=2.000 drops=32/0 ao=audiounit
+09:37:05.947 [av] t=6.542 a=6.496 avsync=0.000 speed=2.000 drops=32/0 ao=audiounit
+09:37:06.146 [av] t=6.958 a=6.895 avsync=0.000 speed=2.000 drops=32/0 ao=audiounit
+09:37:06.347 [av] t=7.333 a=7.297 avsync=0.000 speed=2.000 drops=32/0 ao=audiounit
+09:37:06.547 [av] t=7.750 a=7.697 avsync=0.000 speed=2.000 drops=32/0 ao=audiounit
+09:37:06.747 [av] t=8.125 a=8.097 avsync=0.000 speed=2.000 drops=32/0 ao=audiounit
+09:37:06.948 [av] t=8.542 a=8.499 avsync=0.000 speed=2.000 drops=32/0 ao=audiounit
+09:37:07.146 [av] t=8.958 a=8.895 avsync=0.000 speed=2.000 drops=32/0 ao=audiounit
+09:37:07.346 [av] t=9.333 a=9.295 avsync=0.000 speed=2.000 drops=32/0 ao=audiounit
+09:37:07.390 [av] hold 2.0x: worst A/V offset 21 ms, picture still for 0.0 s of 3 (ao audiounit)
+09:37:07.547 [av] t=9.750 a=9.697 avsync=0.000 speed=2.000 drops=32/0 ao=audiounit
+09:37:07.747 [av] t=10.125 a=10.097 avsync=0.000 speed=2.000 drops=32/0 ao=audiounit
+09:37:07.945 [av] t=10.542 a=10.494 avsync=0.000 speed=2.000 drops=32/0 ao=audiounit
+09:37:08.146 [av] == release
+09:37:08.187 [av] t=10.958 a=10.895 avsync=0.000 speed=2.000 drops=32/0 ao=audiounit
+09:37:08.346 [av] t=11.375 a=11.341 avsync=0.009 speed=1.000 drops=36/0 ao=audiounit
+09:37:08.629 [imdb] webkit nav 1: no data yet (waf=true, 1980 chars)
+09:37:08.630 [av] t=11.625 a=11.625 avsync=0.005 speed=1.000 drops=36/0 ao=audiounit
+09:37:08.746 [av] t=11.750 a=11.741 avsync=0.004 speed=1.000 drops=36/0 ao=audiounit
+09:37:08.947 [av] t=11.958 a=11.941 avsync=0.002 speed=1.000 drops=36/0 ao=audiounit
+09:37:09.145 [av] t=12.167 a=12.140 avsync=0.001 speed=1.000 drops=36/0 ao=audiounit
+09:37:09.347 [av] t=12.375 a=12.342 avsync=0.001 speed=1.000 drops=36/0 ao=audiounit
+09:37:09.548 [av] t=12.583 a=12.543 avsync=0.000 speed=1.000 drops=36/0 ao=audiounit
+09:37:09.747 [av] t=12.750 a=12.742 avsync=0.000 speed=1.000 drops=36/0 ao=audiounit
+09:37:09.947 [av] t=12.958 a=12.942 avsync=0.000 speed=1.000 drops=36/0 ao=audiounit
+09:37:10.146 [av] t=13.167 a=13.141 avsync=0.000 speed=1.000 drops=36/0 ao=audiounit
+09:37:10.347 [av] t=13.333 a=13.342 avsync=0.000 speed=1.000 drops=36/0 ao=audiounit
+09:37:10.547 [av] t=13.375 a=13.542 avsync=0.000 speed=1.000 drops=36/0 ao=audiounit
+09:37:10.747 [av] t=13.375 a=13.742 avsync=0.000 speed=1.000 drops=36/0 ao=audiounit
+09:37:10.947 [av] t=13.375 a=13.942 avsync=0.000 speed=1.000 drops=36/0 ao=audiounit
+09:37:11.146 [av] t=13.375 a=14.141 avsync=0.000 speed=1.000 drops=36/0 ao=audiounit
+09:37:11.337 [av] release: worst A/V offset 9 ms, picture still for 0.8 s of 3 (ao audiounit)
+09:37:11.345 [av] t=13.375 a=14.340 avsync=0.000 speed=1.000 drops=36/0 ao=audiounit
+09:37:11.547 [av] t=14.583 a=14.542 avsync=0.000 speed=1.000 drops=60/0 ao=audiounit
+09:37:11.746 [av] t=14.750 a=14.741 avsync=0.000 speed=1.000 drops=60/0 ao=audiounit
+09:37:11.946 [av] t=14.958 a=14.940 avsync=0.000 speed=1.000 drops=60/0 ao=audiounit
+09:37:12.146 [av] t=15.167 a=15.141 avsync=0.000 speed=1.000 drops=60/0 ao=audiounit
+09:37:12.347 [av] t=15.375 a=15.342 avsync=0.000 speed=1.000 drops=60/0 ao=audiounit
+09:37:12.546 [av] t=15.542 a=15.540 avsync=0.000 speed=1.000 drops=60/0 ao=audiounit
+09:37:12.747 [av] t=15.750 a=15.742 avsync=0.000 speed=1.000 drops=60/0 ao=audiounit
+09:37:12.947 [av] t=15.958 a=15.942 avsync=0.000 speed=1.000 drops=60/0 ao=audiounit
+09:37:13.146 [av] t=16.167 a=16.141 avsync=0.000 speed=1.000 drops=60/0 ao=audiounit
+09:37:13.347 [av] t=16.375 a=16.342 avsync=0.000 speed=1.000 drops=60/0 ao=audiounit
+09:37:13.546 [av] t=16.542 a=16.541 avsync=0.000 speed=1.000 drops=60/0 ao=audiounit
+09:37:13.746 [av] t=16.750 a=16.741 avsync=0.000 speed=1.000 drops=60/0 ao=audiounit
+09:37:13.946 [av] t=16.958 a=16.941 avsync=0.000 speed=1.000 drops=60/0 ao=audiounit
+09:37:14.145 [av] == renderer → software (PiP path)
+09:37:14.155 [player] metal view detached
+09:37:14.211 [av] t=17.167 a=17.206 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:14.347 [av] t=17.250 a=17.342 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:14.546 [av] t=17.417 a=17.541 avsync=0.140 speed=1.000 drops=0/0 ao=audiounit
+09:37:14.747 [av] t=17.667 a=17.742 avsync=0.115 speed=1.000 drops=0/0 ao=audiounit
+09:37:14.947 [av] t=17.875 a=17.942 avsync=0.094 speed=1.000 drops=0/0 ao=audiounit
+09:37:15.146 [av] t=18.083 a=18.141 avsync=0.074 speed=1.000 drops=0/0 ao=audiounit
+09:37:15.347 [av] t=18.292 a=18.342 avsync=0.053 speed=1.000 drops=0/0 ao=audiounit
+09:37:15.547 [av] t=18.542 a=18.542 avsync=0.029 speed=1.000 drops=0/0 ao=audiounit
+09:37:15.747 [av] t=18.750 a=18.742 avsync=0.017 speed=1.000 drops=0/0 ao=audiounit
+09:37:15.947 [av] t=18.958 a=18.942 avsync=0.010 speed=1.000 drops=0/0 ao=audiounit
+09:37:16.146 [av] t=19.167 a=19.140 avsync=0.006 speed=1.000 drops=0/0 ao=audiounit
+09:37:16.347 [av] t=19.375 a=19.342 avsync=0.004 speed=1.000 drops=0/0 ao=audiounit
+09:37:16.547 [av] t=19.542 a=19.542 avsync=0.002 speed=1.000 drops=0/0 ao=audiounit
+09:37:16.747 [av] t=19.750 a=19.742 avsync=0.001 speed=1.000 drops=0/0 ao=audiounit
+09:37:16.948 [av] t=19.958 a=19.942 avsync=0.001 speed=1.000 drops=0/0 ao=audiounit
+09:37:17.146 [av] t=20.167 a=20.141 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:17.340 [av] renderer → PiP: worst A/V offset 153 ms, picture still for 0.0 s of 3 (ao audiounit)
+09:37:17.345 [av] t=20.375 a=20.340 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:17.547 [av] t=20.542 a=20.541 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:17.746 [av] t=20.750 a=20.741 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:17.945 [av] t=20.958 a=20.940 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:18.146 [av] t=21.167 a=21.141 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:18.298 [av] == renderer → main
+09:37:18.301 [player] metal view attached
+09:37:18.319 [player] decoder: software
+09:37:18.351 [player] decoder: software
+09:37:18.371 [av] t=21.346 a=21.346 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:18.547 [av] t=21.417 a=21.542 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:18.745 [av] t=21.625 a=21.740 avsync=0.129 speed=1.000 drops=0/0 ao=audiounit
+09:37:18.947 [av] t=21.833 a=21.941 avsync=0.108 speed=1.000 drops=0/0 ao=audiounit
+09:37:19.170 [av] t=22.083 a=22.165 avsync=0.083 speed=1.000 drops=0/0 ao=audiounit
+09:37:19.347 [av] t=22.292 a=22.342 avsync=0.062 speed=1.000 drops=0/0 ao=audiounit
+09:37:19.545 [av] t=22.542 a=22.540 avsync=0.037 speed=1.000 drops=0/0 ao=audiounit
+09:37:19.746 [av] t=22.750 a=22.741 avsync=0.022 speed=1.000 drops=0/0 ao=audiounit
+09:37:19.948 [av] t=22.958 a=22.942 avsync=0.013 speed=1.000 drops=0/0 ao=audiounit
+09:37:20.145 [av] t=23.125 a=23.140 avsync=0.009 speed=1.000 drops=0/0 ao=audiounit
+09:37:20.347 [av] t=23.375 a=23.342 avsync=0.005 speed=1.000 drops=0/0 ao=audiounit
+09:37:20.547 [av] t=23.542 a=23.541 avsync=0.003 speed=1.000 drops=0/0 ao=audiounit
+09:37:20.746 [av] t=23.750 a=23.741 avsync=0.002 speed=1.000 drops=0/0 ao=audiounit
+09:37:20.947 [av] t=23.958 a=23.942 avsync=0.001 speed=1.000 drops=0/0 ao=audiounit
+09:37:21.145 [av] t=24.167 a=24.140 avsync=0.001 speed=1.000 drops=0/0 ao=audiounit
+09:37:21.264 [av] == park video (PiP closed in background) then return
+09:37:21.326 [av] renderer → main (PiP ended): worst A/V offset 125 ms, picture still for 0.0 s of 3 (ao audiounit)
+09:37:21.336 [player] decoder: software
+09:37:21.474 [av] t=24.320 a=24.320 avsync=- speed=1.000 drops=-1/-1 ao=audiounit
+09:37:21.547 [av] t=24.320 a=24.320 avsync=- speed=1.000 drops=-1/-1 ao=audiounit
+09:37:21.747 [av] t=24.320 a=24.320 avsync=- speed=1.000 drops=-1/-1 ao=audiounit
+09:37:21.999 [av] t=24.425 a=24.440 avsync=- speed=1.000 drops=-1/-1 ao=audiounit
+09:37:22.146 [av] t=24.585 a=24.586 avsync=- speed=1.000 drops=-1/-1 ao=audiounit
+09:37:22.346 [player] video was parked while on screen; restoring
+09:37:22.368 [av] t=24.777 a=24.786 avsync=- speed=1.000 drops=-1/-1 ao=audiounit
+09:37:22.393 [player] decoder: software
+09:37:22.548 [av] t=24.875 a=24.988 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:22.746 [av] t=25.042 a=25.186 avsync=0.163 speed=1.000 drops=0/0 ao=audiounit
+09:37:22.946 [av] t=25.292 a=25.386 avsync=0.138 speed=1.000 drops=0/0 ao=audiounit
+09:37:23.146 [av] t=25.500 a=25.586 avsync=0.117 speed=1.000 drops=0/0 ao=audiounit
+09:37:23.346 [av] t=25.708 a=25.786 avsync=0.097 speed=1.000 drops=0/0 ao=audiounit
+09:37:23.547 [av] t=25.958 a=25.987 avsync=0.072 speed=1.000 drops=0/0 ao=audiounit
+09:37:23.748 [av] t=26.125 a=26.188 avsync=0.055 speed=1.000 drops=0/0 ao=audiounit
+09:37:23.948 [av] t=26.375 a=26.388 avsync=0.031 speed=1.000 drops=0/0 ao=audiounit
+09:37:24.146 [av] t=26.583 a=26.586 avsync=0.018 speed=1.000 drops=0/0 ao=audiounit
+09:37:24.347 [av] t=26.792 a=26.787 avsync=0.011 speed=1.000 drops=0/0 ao=audiounit
+09:37:24.547 [av] t=27.000 a=26.987 avsync=0.006 speed=1.000 drops=0/0 ao=audiounit
+09:37:24.674 [energy] cpu 19% (main 8%, other 4%, vo 3%, core 2%, audio 1%) thermal=nominal playing=yes renderer=metal picture=efficient decoder=no
+09:37:24.747 [av] t=27.208 a=27.188 avsync=0.004 speed=1.000 drops=0/0 ao=audiounit
+09:37:24.946 [av] t=27.417 a=27.386 avsync=0.002 speed=1.000 drops=0/0 ao=audiounit
+09:37:25.146 [av] t=27.583 a=27.586 avsync=0.001 speed=1.000 drops=0/0 ao=audiounit
+09:37:25.346 [av] t=27.833 a=27.786 avsync=0.001 speed=1.000 drops=0/0 ao=audiounit
+09:37:25.508 [av] renderer → main (PiP ended): worst A/V offset 159 ms, picture still for 0.0 s of 3 (ao audiounit)
+09:37:25.547 [av] t=28.000 a=27.987 avsync=0.001 speed=1.000 drops=0/0 ao=audiounit
+09:37:25.745 [av] t=28.208 a=28.185 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:25.947 [av] t=28.417 a=28.387 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:26.147 [av] t=28.625 a=28.587 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:26.347 [av] t=28.792 a=28.787 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:26.547 [av] t=29.000 a=28.988 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:26.746 [av] t=29.208 a=29.186 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:26.947 [av] t=29.417 a=29.387 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:27.145 [av] t=29.625 a=29.585 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:27.346 [av] t=29.792 a=29.786 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:27.547 [av] t=30.000 a=29.987 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:27.746 [av] t=30.208 a=30.186 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:27.947 [av] t=30.417 a=30.387 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:28.145 [av] t=30.583 a=30.585 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:28.347 [av] t=30.792 a=30.787 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:28.545 [av] t=31.000 a=30.985 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:28.746 [av] t=31.208 a=31.186 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:28.945 [av] t=31.417 a=31.386 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:29.142 [imdb/error] webkit timeout for /title/tt23623230
+09:37:29.154 [perf] imdb /title/tt23623230/ via web view 25661 ms
+09:37:29.156 [av] t=31.625 a=31.596 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:29.347 [av] t=31.833 a=31.787 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:29.547 [av] t=32.000 a=31.987 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:29.578 [skip] IntroDB tt23623230 s0e0: [] postCredits=false
+09:37:29.747 [av] t=32.208 a=32.187 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:29.947 [av] t=32.417 a=32.387 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:30.146 [av] t=32.625 a=32.586 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:30.346 [av] t=32.792 a=32.786 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:30.546 [av] t=33.000 a=32.986 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:30.747 [av] t=33.208 a=33.187 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:30.947 [av] t=33.417 a=33.387 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:31.146 [av] t=33.625 a=33.586 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:31.347 [av] t=33.792 a=33.787 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:31.547 [av] t=34.000 a=33.987 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:31.746 [av] t=34.208 a=34.186 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:31.947 [av] t=34.417 a=34.387 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:32.145 [av] t=34.583 a=34.585 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:32.347 [av] t=34.792 a=34.787 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:32.547 [av] t=35.000 a=34.987 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:32.746 [av] t=35.208 a=35.186 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:32.947 [av] t=35.417 a=35.387 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:33.146 [av] t=35.583 a=35.586 avsync=0.000 speed=1.000 drops=0/0 ao=audiounit
+09:37:33.347 [av] done
+09:37:54.949 [energy] cpu 0% (audio 0%) thermal=nominal playing=yes renderer=metal picture=efficient decoder=no
+09:37:55.339 [energy] cpu 7% (main 6%, audio 1%) thermal=nominal playing=yes renderer=metal picture=efficient decoder=no · 1 min into playback
+09:37:59.132 [energy] cpu 0% (audio 0%) thermal=nominal playing=yes renderer=metal picture=efficient decoder=no · 1 min into playback
