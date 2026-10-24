@@ -1,0 +1,101 @@
+Command line invocation:
+    /Applications/Xcode_26.3.app/Contents/Developer/usr/bin/xcodebuild test-without-building -project GlassPlayer.xcodeproj -scheme GlassPlayer -configuration Release -destination id=4BA39C0B-E0F6-49A6-940E-232EC97F83A0 -derivedDataPath build "-only-testing:GlassPlayerUITests/DiscoverUITests"
+
+--- xcodebuild: WARNING: Using the first of multiple matching destinations:
+{ platform:iOS Simulator, arch:arm64, id:4BA39C0B-E0F6-49A6-940E-232EC97F83A0, OS:26.2, name:lab }
+{ platform:iOS Simulator, arch:x86_64, id:4BA39C0B-E0F6-49A6-940E-232EC97F83A0, OS:26.2, name:lab }
+2026-10-24 11:17:54.679036+0000 GlassPlayerUITests-Runner[21641:66985] [Default] Running tests...
+    t =      nans Interface orientation changed to Portrait
+Test Suite 'Selected tests' started at 2026-10-24 11:18:04.152.
+Test Suite 'GlassPlayerUITests.xctest' started at 2026-10-24 11:18:04.153.
+Test Suite 'DiscoverUITests' started at 2026-10-24 11:18:04.153.
+Test Case '-[GlassPlayerUITests.DiscoverUITests testOpenTitlesFromDiscover]' started.
+    t =     0.00s Start Test at 2026-10-24 11:18:04.155
+    t =     0.61s Set Up
+    t =     0.62s Open dev.silentneo.glassplayer
+    t =     0.62s     Launch dev.silentneo.glassplayer
+    t =    11.58s         Setting up automation session
+    t =    14.63s         Wait for dev.silentneo.glassplayer to idle
+    t =    18.80s Setting device orientation to Portrait
+    t =    18.81s     Device orientation changed to Portrait
+    t =    18.88s     Wait for dev.silentneo.glassplayer to idle
+    t =    18.89s Checking existence of `"Discover" Button`
+    t =    19.26s Waiting 20.0s for "Discover" Button to exist
+    t =    20.30s     Checking `Expect predicate `existsNoRetry == 1` for object "Discover" Button`
+    t =    20.30s         Checking existence of `"Discover" Button`
+    t =    20.36s Tap "Discover" Button
+    t =    20.36s     Wait for dev.silentneo.glassplayer to idle
+    t =    20.36s     Find the "Discover" Button
+    t =    20.43s     Check for interrupting elements affecting "sparkles.tv" Button
+    t =    20.49s     Synthesize event
+    t =    20.96s     Wait for dev.silentneo.glassplayer to idle
+    t =    22.86s Waiting 15.0s for "Lab Movie" StaticText to exist
+    t =    23.92s     Checking `Expect predicate `existsNoRetry == 1` for object "Lab Movie" StaticText`
+    t =    23.92s         Checking existence of `"Lab Movie" StaticText`
+    t =    25.10s Tap "Lab Movie" StaticText
+    t =    25.10s     Wait for dev.silentneo.glassplayer to idle
+    t =    25.10s     Find the "Lab Movie" StaticText
+    t =    25.23s     Check for interrupting elements affecting "Lab Movie" StaticText
+    t =    25.31s     Synthesize event
+    t =    25.63s     Wait for dev.silentneo.glassplayer to idle
+TITLEPAGE Lab Movie alive=true
+    t =    31.89s Waiting 5.0s for "heroPlay" Any to exist
+    t =    32.97s     Checking `Expect predicate `existsNoRetry == 1` for object "heroPlay" Any`
+    t =    32.97s         Checking existence of `"heroPlay" Any`
+    t =    33.08s Swipe up Target Application 'dev.silentneo.glassplayer'
+    t =    33.08s     Wait for dev.silentneo.glassplayer to idle
+    t =    33.09s     Find the Target Application 'dev.silentneo.glassplayer'
+    t =    33.15s     Check for interrupting elements affecting "GlassPlayer" Application
+    t =    33.23s     Synthesize event
+    t =    33.70s     Wait for dev.silentneo.glassplayer to idle
+    t =    36.19s Checking existence of `Button (First Match)`
+    t =    36.29s Tap Button (First Match)
+    t =    36.30s     Wait for dev.silentneo.glassplayer to idle
+    t =    36.30s     Find the Button (First Match)
+    t =    36.40s     Check for interrupting elements affecting "BackButton" Button
+    t =    36.52s     Synthesize event
+    t =    36.86s     Wait for dev.silentneo.glassplayer to idle
+    t =    39.74s Waiting 15.0s for "Lab Series" StaticText to exist
+    t =    40.77s     Checking `Expect predicate `existsNoRetry == 1` for object "Lab Series" StaticText`
+    t =    40.77s         Checking existence of `"Lab Series" StaticText`
+    t =    41.88s Tap "Lab Series" StaticText
+    t =    41.88s     Wait for dev.silentneo.glassplayer to idle
+    t =    41.88s     Find the "Lab Series" StaticText
+    t =    41.99s     Check for interrupting elements affecting "Lab Series" StaticText
+    t =    42.05s     Synthesize event
+    t =    42.39s     Wait for dev.silentneo.glassplayer to idle
+TITLEPAGE Lab Series alive=true
+    t =    49.61s Waiting 5.0s for "heroPlay" Any to exist
+    t =    50.69s     Checking `Expect predicate `existsNoRetry == 1` for object "heroPlay" Any`
+    t =    50.70s         Checking existence of `"heroPlay" Any`
+    t =    50.94s Swipe up Target Application 'dev.silentneo.glassplayer'
+    t =    50.94s     Wait for dev.silentneo.glassplayer to idle
+    t =    50.94s     Find the Target Application 'dev.silentneo.glassplayer'
+    t =    51.04s     Check for interrupting elements affecting "GlassPlayer" Application
+    t =    51.32s     Synthesize event
+    t =    51.79s     Wait for dev.silentneo.glassplayer to idle
+    t =    55.34s Checking existence of `Button (First Match)`
+    t =    55.42s Tap Button (First Match)
+    t =    55.42s     Wait for dev.silentneo.glassplayer to idle
+    t =    55.42s     Find the Button (First Match)
+    t =    55.55s     Check for interrupting elements affecting "BackButton" Button
+    t =    55.64s     Synthesize event
+    t =    56.02s     Wait for dev.silentneo.glassplayer to idle
+    t =    58.97s Tear Down
+Test Case '-[GlassPlayerUITests.DiscoverUITests testOpenTitlesFromDiscover]' passed (59.499 seconds).
+Test Suite 'DiscoverUITests' passed at 2026-10-24 11:19:03.655.
+	 Executed 1 test, with 0 failures (0 unexpected) in 59.499 (59.502) seconds
+Test Suite 'GlassPlayerUITests.xctest' passed at 2026-10-24 11:19:03.656.
+	 Executed 1 test, with 0 failures (0 unexpected) in 59.499 (59.503) seconds
+Test Suite 'Selected tests' passed at 2026-10-24 11:19:03.656.
+	 Executed 1 test, with 0 failures (0 unexpected) in 59.499 (59.504) seconds
+2026-10-24 11:19:05.396 xcodebuild[20627:64287] [MT] IDETestOperationsObserverDebug: 83.248 elapsed -- Testing started completed.
+2026-10-24 11:19:05.396 xcodebuild[20627:64287] [MT] IDETestOperationsObserverDebug: 0.000 sec, +0.000 sec -- start
+2026-10-24 11:19:05.396 xcodebuild[20627:64287] [MT] IDETestOperationsObserverDebug: 83.248 sec, +83.248 sec -- end
+
+Test session results, code coverage, and logs:
+	/Users/runner/work/GlassPlayer/GlassPlayer/build/Logs/Test/Test-GlassPlayer-2026.10.24_11-17-33-+0000.xcresult
+
+** TEST EXECUTE SUCCEEDED **
+
+Testing started

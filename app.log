@@ -1,0 +1,9 @@
+11:18:17.880 [app] launch v1.0.0 (1) iOS 26.2 arm64 free=39.78 GB
+11:18:17.982 [lab] IMDb cache seeded (Lab Movie, Lab Series)
+11:18:20.070 [hang] main thread unresponsive for 2.2 s
+11:18:20.446 [app] first screen 5281 ms after process start
+11:18:21.754 [app] active
+11:18:29.987 [perf] title page tt9000001 ready in 14 ms
+11:18:47.493 [tvmaze] tt9000002 Lab Series: show not found, 0 English episode titles
+11:18:47.507 [perf] title page tt9000002 ready in 1054 ms
+11:18:51.762 [energy] cpu 1% (main 1%) thermal=nominal playing=no
